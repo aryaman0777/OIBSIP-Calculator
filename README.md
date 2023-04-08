@@ -1,2 +1,3 @@
 # OIBSIP-Calculator
-Calculator Webapp
+
+A simple Calculator webapp design using HTML, CSS & JavaScript.
